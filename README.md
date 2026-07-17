@@ -1,9 +1,9 @@
- Spotify Genre Classification
+ # Spotify Genre Classification
 
-Project Overview
+ # Project Overview
 This project uses Machine Learning to classify Spotify songs into different music genres based on their audio features.
 
-#Objective
+# Objective
 To build a machine learning model that predicts the genre of a song using Spotify audio features.
 
 #Dataset
